@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=NoName-dark-solid
+Comment=Baseon MacOS BigSur like Gtk+ theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=NoName-dark-solid
+MetacityTheme=NoName-dark-solid
+IconTheme=NoName-dark
+CursorTheme=NoName-dark
+ButtonLayout=close,minimize,maximize:menu
