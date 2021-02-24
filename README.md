@@ -1,6 +1,7 @@
 # Overview
 - This theme base on WhiteSur-dark-solid, you can find [here](https://www.gnome-look.org/p/1403328/)
 - This theme just for Linux Gnome and my os is [Pop!os](https://pop.system76.com/)
+- Wallpaper [here](https://www.wykop.pl/cdn/c3201142/comment_7scf6xKKVaQh9kRbgP3BOMV9QswXNx0d.jpg)
 - Preview
 
 <img src="https://github.com/doctor-blue/no_name_dark_solid_gnome/blob/main/preview/preview_1.png" width="640" height="360"/><img>
